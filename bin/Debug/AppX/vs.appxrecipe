@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N01RL3R</Machine>
+    <WindowsUser>Daniel</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d1ad8b5e-7466-4fdf-9355-7426bec3703a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Daniel</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Daniel\Proyectos Personales\App1\App1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\Daniel\Proyectos Personales\App1\App1\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B7840C012352828CA00DA0FD387A1331437632644FF5A43EDB8ECF7627747A7A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d1ad8b5e-7466-4fdf-9355-7426bec3703a_1.0.0.0_neutral__4jdacjwc0e74a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d1ad8b5e-7466-4fdf-9355-7426bec3703a_4jdacjwc0e74a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d1ad8b5e-7466-4fdf-9355-7426bec3703a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Daniel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Daniel\Proyectos Personales\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-10T19:06:09.030</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-11-10T17:53:04.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-11-10T19:34:44.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-11-10T17:47:38.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-10T19:06:08.554</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
